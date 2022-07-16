@@ -1,0 +1,1 @@
+cmd_/home/pi/Embedded_System_Project/servo-driver/servo_driver.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Embedded_System_Project/servo-driver/servo_driver.ko /home/pi/Embedded_System_Project/servo-driver/servo_driver.o /home/pi/Embedded_System_Project/servo-driver/servo_driver.mod.o;  true

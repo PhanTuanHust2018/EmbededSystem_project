@@ -1,0 +1,1 @@
+cmd_/home/pi/example01-dht11/dht11_dev.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/example01-dht11/dht11_dev.ko /home/pi/example01-dht11/dht11_dev.o /home/pi/example01-dht11/dht11_dev.mod.o;  true

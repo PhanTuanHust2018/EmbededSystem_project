@@ -1,0 +1,1 @@
+cmd_/home/pi/Embedded_System_Project/servo-driver/servo_driver.mod := { echo  /home/pi/Embedded_System_Project/servo-driver/servo_driver.o;  echo; } > /home/pi/Embedded_System_Project/servo-driver/servo_driver.mod
